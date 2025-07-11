@@ -119,15 +119,21 @@ The pipeline was designed with the following layers:
 - **Gold Layer**: Aggregated datasets for BI  
 - Pipelines utilize Lookup → ForEach → Copy pattern with parameterization  
 
+
+![Loading Datasets into Azure](loading%20datasets%20into%20azure.png)
+
+
+
 ---
 
 ## 📊 Power BI Dashboard
 
 - KPI summary tiles  
-- Delivery time trends  
-- Product category performance  
-- Regional freight & payment visualizations  
-- Estimated vs Actual delivery comparisons  
+- Delivery time trends
+
+- 
+![Diagram](power_biDashboard.png)
+
 
 ---
 
