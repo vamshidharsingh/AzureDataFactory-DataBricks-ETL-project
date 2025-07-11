@@ -7,6 +7,10 @@ This project showcases a comprehensive **end-to-end big data pipeline** using **
 
 ---
 
+
+
+
+
 ## 🚀 Architecture
 
 The architecture follows the modern **Data Lakehouse** paradigm:
@@ -18,8 +22,11 @@ The architecture follows the modern **Data Lakehouse** paradigm:
 - **Enrichment**: MongoDB tables joined during data processing
 - **Serving & Visualization**: Synapse SQL views connected to Power BI dashboards
 
-
+**Overall architecture of datapipeline**
 ![Diagram](ETL%20pipeline%20Architecture%20Diagram.png)
+
+**Architecture of Azure data pipeline in azure data factory**
+![Azure Data Pipeline](Azure%20data%20pipeline%20image.png)
 
 
 ---
