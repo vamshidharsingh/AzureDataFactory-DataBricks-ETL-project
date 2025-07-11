@@ -17,6 +17,7 @@ The architecture follows the modern **Data Lakehouse** paradigm:
 - **Transformation**: PySpark transformations on Azure Databricks
 - **Enrichment**: MongoDB tables joined during data processing
 - **Serving & Visualization**: Synapse SQL views connected to Power BI dashboards
+![Diagram](ETL pipeline Architecture Diagram.png)
 
 ---
 
