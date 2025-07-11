@@ -129,9 +129,6 @@ The pipeline was designed with the following layers:
 ## 📊 Power BI Dashboard
 
 - KPI summary tiles  
-- Delivery time trends
-
-- 
 ![Diagram](power_biDashboard.png)
 
 
